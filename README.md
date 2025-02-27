@@ -6,14 +6,25 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
+Software enginnering is the process of designing, building, testing and maintaining software. It's importance is to create efficient, scalable and reliable software solutions that meet the needs of it's users.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
+1. Objected oriented programming - enabled developers to create reusable code components based on real-world objects
+2. Clouds computing - increased accessibility to computing power and data storage
+3. Modular programming - Promoted better oraganization and code
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
+Planning - Defining the project goals 
+Design - making a blueprint on how the software will look and work
+Development - writing code of the software
+Testing - To ensure that the software is working perfectly
+Deployment - Putting the software live, where the users can start using it.
+Maintenance - Checking on the software by fixing any problems that may have arised.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
@@ -32,6 +43,11 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Prompt engineering is the art of crafting questions or statements to get the best responses from AI models.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+"Tell me about solar energy in Kenya"
+
+"Could you analyze the impact of the introduction to solar energy in Kenyan local communities between 2010-2020, focusing mostly on job creation and changes of electricty costs in the rural areas in Kenya"
+
+
